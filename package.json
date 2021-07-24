@@ -1,0 +1,20 @@
+{
+  "name": "fcc-learnings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo 'poda' "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.21"
+  }
+}
